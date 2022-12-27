@@ -1,0 +1,7 @@
+rootProject.name = 'demo'
+include 'register-center'
+include 'service-api'
+include 'service-provider'
+include 'service-consumer'
+include 'aaa'
+
